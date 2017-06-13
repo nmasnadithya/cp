@@ -1,3 +1,6 @@
+*
+!/**/
+!*.*
 /USACO_netbeans_template/nbproject/private/
 /USACO_template/USACO_Template/nbproject/private/
 /USACO_template/USACO_Template/build/
@@ -5,4 +8,7 @@
 /USACO_template/module/build/
 /USACO_template/
 /github*
+*.in
+*.out
+
 
